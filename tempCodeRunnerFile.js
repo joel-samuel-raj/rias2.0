@@ -1,0 +1,1 @@
+ // client.channels.cache.get("893577313336299602").send(today.pop())
